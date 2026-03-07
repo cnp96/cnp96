@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Chinmaya Pati
 
-**Founder-Engineer | Distributed Systems | AI Orchestration**
+**Full-Stack Engineer | Distributed Systems | AI Orchestration**
 
-I am a builder-engineer based in Bangalore, India. I specialize in bridging the gap between high-level architectural "physics" and rapid, founder-led execution.
+I am a builder-engineer based in Bangalore, India. I specialise in bridging the gap between high-level architectural "physics" and rapid, founder-led execution.
 
 ---
 
